@@ -1,4 +1,4 @@
-# Financial Transactions Analysis
+# Financial Transactions Analysis on Customer Segmentation, Trends and Predictions 2024
 
 # Project Background
 
