@@ -11,12 +11,12 @@ Insights and recommendations are provided on the following key areas: Credit Uti
 
 The data has a total of 18 columns and 8950 rows. The data types included in the set are integers, decimal and string. 
 
-The cleaning, manipulation and visualization of the data was done in Rstudio. 
+The cleaning, manipulation and visualization of the data was done in RStudio. 
 
 # Executive Summary
 
 ### Overview of Findings
-
+ * 
 
 # Insights Deep Dive
 
