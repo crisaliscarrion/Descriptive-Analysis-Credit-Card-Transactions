@@ -1,26 +1,25 @@
-# Credit Card Transactions Analysis on  Credit Utilization, and Spending Behavior
+# Análisis de transacciones con tarjeta de crédito sobre la utilización del crédito y el comportamiento de gasto
 
-# Project Background
+# Trasfondo
 
-This analysis is made using a data set from Kaggle by Arjun Bhasin and it contains information about credit card usage behavior of 9,000 users.
+Este análisis se realizó con un conjunto de datos de Kaggle de Arjun Bhasin y contiene información sobre el comportamiento de uso de tarjetas de crédito de 9000 usuarios.
 
+Se proporcionan conocimientos y recomendaciones sobre las siguientes áreas clave: Utilización del crédito y comportamiento de gasto.
 
-Insights and recommendations are provided on the following key areas: Credit Utilization and Spending Behavior
+# Estructura de datos y herramientas
 
-# Data Structure & Tools
+Los datos tienen un total de 18 columnas y 8950 filas. Los tipos de datos incluidos en el conjunto son integers, decimamals y strings.
 
-The data has a total of 18 columns and 8950 rows. The data types included in the set are integers, decimal and string. 
+La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
-The cleaning, manipulation and visualization of the data was done in RStudio. 
+# Resumen
 
-# Executive Summary
-
-### Overview of Findings
+### Preguntas a contestar 
  * 
 
-# Insights Deep Dive
+# Descubrimientos
 
 
-# Recommendations:
+# Recomendaciones :
 
-# References 
+# Referencias
