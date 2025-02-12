@@ -31,7 +31,12 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
   *La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altan tienden a tener balances más altos.
 
 # Visualizaciones 
-  
+
+![file_show (2)](https://github.com/user-attachments/assets/83588aef-283e-413d-ba08-8d19373cfce8)
+![file_show](https://github.com/user-attachments/assets/7e6e72c7-1c9b-4ac4-9010-e84dfcf5f49f)
+![cu versus purchases](https://github.com/user-attachments/assets/26a13b61-242c-4099-b4e7-63edeb8960fd)
+![file_show (1)](https://github.com/user-attachments/assets/8a9ec978-dc3a-46c6-9b6e-7027fd04677d)
+
 # Recomendaciones:
 
 # Referencias
