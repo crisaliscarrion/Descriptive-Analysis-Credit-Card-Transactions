@@ -2,13 +2,13 @@
 
 # Trasfondo
 
-Este análisis se realizó con un conjunto de datos de Kaggle de Arjun Bhasin y contiene información sobre el comportamiento de uso de tarjetas de crédito de 9000 usuarios.
+Este análisis se realizó con un conjunto de datos de Kaggle de Arjun Bhasin y contiene información sobre el comportamiento de uso de tarjetas de crédito de 8,950 usuarios.
 
-Se proporcionan conocimientos y recomendaciones sobre las siguientes áreas clave: Utilización del crédito y comportamiento de gastos.
+Se proporcionan conocimientos y recomendaciones sobre las siguientes áreas claves: Utilización del crédito y comportamiento de gastos.
 
 # Estructura de datos y herramientas
 
-Los datos tienen un total de 18 columnas y 8950 filas. Los tipos de datos incluidos en el conjunto son integers, decimamals y strings.
+Los datos tienen un total de 18 columnas y 8950 filas. Los tipos de datos incluidos en el conjunto son integers, decimals y strings.
 
 La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
@@ -48,7 +48,7 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 * Establecer sistema de alertas como recordatorio de pagos automáticos del pago mínimo para ayudar a los clientes con balances altos.
 * Realizar segmentación de clientes para ofrecer asesoramiento financiero personalizado acorde su comportamiento de gastos y pagos.
 * Considerar aumentar los límites de crédito para los clientes "Low Risk" con baja utilización para recompensar buen comportamiento y promover lealtad de cliente.
-* Implementar alertas basadas en el uso de crédito, notificando a los clientes cuando su uso exceda los parametros seguros.(Ej. Alertar cuando su balance Alcalá un porcentaje de utilización moderado o alto).
+* Implementar alertas basadas en el uso de crédito, notificando a los clientes cuando su uso exceda los parametros seguros.(Ej. Alertar cuando su balance se acerca a un porcentaje de utilización moderado o alto).
 * Ofrecer planes de pago estructurados para clientes con balances altos para ayudarlos a realizar pagos más grandes.
 
 # Referencias
