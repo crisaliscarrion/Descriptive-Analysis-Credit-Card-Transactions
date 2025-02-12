@@ -12,6 +12,9 @@ Los datos tienen un total de 18 columnas y 8950 filas. Los tipos de datos inclui
 
 La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
+![data set desctp](https://github.com/user-attachments/assets/a8061959-c728-45d6-8fba-8b42e9d10a32)
+
+
 # Resumen
 
 # Alcance 
@@ -26,7 +29,7 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 * La mayoria de las cantidades de compras son realizadas por clientes con utilización baja, o que caen bajo la categoria de "Low Risk". A medida que aumenta la utilización, la cantidad de compras disminuye, lo que significa que un uso alto del crédito no se relaciona con mayores gastos.
 * La mayoría de los clientes tienen balances y pagos de baja cantidad y los pagos no se ajustan proporcionalmente a los balances. Muchos de los clientes con balances altos realizan pagos de cantidades bajas.
 
-  ## Comportamiento de gastos
+## Comportamiento de gastos
   *Las cantidades de compras disminuyen a medida que aumenta el porcentaje de utilización y se observa un patron en donde las cantidades de compras mas altan se observan mayormente en los porcentajes de utilización bajo.
   *La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altan tienden a tener balances más altos.
 
@@ -42,6 +45,7 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
 ## Relación entre balance y cash advances 
 ![file_show (1)](https://github.com/user-attachments/assets/8a9ec978-dc3a-46c6-9b6e-7027fd04677d)
+
 
 # Recomendaciones:
 
