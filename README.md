@@ -16,22 +16,22 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
 # Alcance 
  * Calcular el porcentaje de utilización
- * Categorizar el porcentaje de utilizaación bajo "Low Risk", "Moderate Risk" o "High Risk"
- * Calcular cantidades de clientes bajo cada cateogoria de riesgo
+ * Categorizar el porcentaje de utilización bajo "Low Risk", "Moderate Risk" o "High Risk"
+ * Calcular cantidades de clientes bajo cada cateogoría de riesgo
  * Estudiar el comportamiento de gastos de clientes
 
 # Descubrimientos
 ## Utilización del crédito
-* De los 8,950 clientes 4,455 caen bajo Low Risk, 2,786 bajo High Risk y 1,709 bajo Moderate Risk. Esto significa que un 49.77% de los clientes tienen un porcentage utlizacion de credito menor de 0.3. Consecuentemente, 31.12% tiene porcentage utlizacion de credito mayor de 0.6 y un 19.09% tiene un porcentage utlizacion de credito entre 0.3 y 0.6. 
-* La mayoria de las cantidades de compras son realizadas por clientes con utilización baja, o que caen bajo la categoria de "Low Risk". A medida que aumenta la utilización, la cantidad de compras disminuye, lo que significa que un uso alto del crédito no se relaciona con mayores gastos.
+* De los 8,950 clientes 4,455 caen bajo "Low Risk", 2,786 bajo "High Risk" y 1,709 bajo "Moderate Risk". Esto significa que un 49.77% de los clientes tienen un porcentaje de utlizacion de credito menor de 0.3. Consecuentemente, 31.12% tiene un porcentaje de utlización de credito mayor de 0.6 y un 19.09% tiene un porcentaje de utlización de credito entre 0.3 y 0.6. 
+* La mayoría de las cantidades de compras son realizadas por clientes con utilización baja, o que caen bajo la categoria de "Low Risk". A medida que aumenta la utilización, la cantidad de compras disminuye, lo que significa que un uso alto del crédito no se relaciona con mayores gastos.
 * La mayoría de los clientes tienen balances y pagos de baja cantidad y los pagos no se ajustan proporcionalmente a los balances. Muchos de los clientes con balances altos realizan pagos de cantidades bajas.
 
 ## Comportamiento de gastos
-  * Las cantidades de compras disminuyen a medida que aumenta el porcentaje de utilización y se observa un patron en donde las cantidades de compras mas altan se observan mayormente en los porcentajes de utilización bajo.
-  * La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altan tienden a tener balances más altos.
+  * Las cantidades de compras disminuyen a medida que aumenta el porcentaje de utilización y se observa un patrón en donde las cantidades de compras más altas se observan mayormente en los porcentajes de utilización bajos.
+  * La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altas tienden a tener balances más altos.
 
 # Visualizaciones 
-## Cantidad de clientes bajo categoria de riesgo 
+## Cantidad de clientes bajo categoría de riesgo 
 ![file_show (2)](https://github.com/user-attachments/assets/83588aef-283e-413d-ba08-8d19373cfce8)
 
 ## Relación entre cantidad de balance y cantidad de pagos
@@ -45,6 +45,8 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 
 
 # Recomendaciones:
-* 
+* Establecer sistema de alertas como recordatorio de pagos automáticos del pago mínimo para ayudar a los clientes con balances altos.
+* Realizar segmentación de clientes para ofrecer asesoramiento financiero personalizado acorde su comportamiento de gastos y pagos.
+* Considerar aumentar los límites de crédito para los clientes "Low Risk" con baja utilización para recompensar buen comportamiento y promover lealtad de cliente.
 
 # Referencias
