@@ -21,12 +21,12 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
  * Estudiar el comportamiento de gastos de clientes
 
 # Descubrimientos
-###Utilización del crédito
+## Utilización del crédito
 * De los 8,950 clientes 4,455 caen bajo Low Risk, 2,786 bajo High Risk y 1,709 bajo Moderate Risk. Esto significa que un 49.77% de los clientes tienen un porcentage utlizacion de credito menor de 0.3. Consecuentemente, 31.12% tiene porcentage utlizacion de credito mayor de 0.6 y un 19.09% tiene un porcentage utlizacion de credito entre 0.3 y 0.6. 
 * La mayoria de las cantidades de compras son realizadas por clientes con utilización baja, o que caen bajo la categoria de "Low Risk". A medida que aumenta la utilización, la cantidad de compras disminuye, lo que significa que un uso alto del crédito no se relaciona con mayores gastos.
 * La mayoría de los clientes tienen balances y pagos de baja cantidad y los pagos no se ajustan proporcionalmente a los balances. Muchos de los clientes con balances altos realizan pagos de cantidades bajas.
 
-  ###Comportamiento de gastos
+  ## Comportamiento de gastos
   *Las cantidades de compras disminuyen a medida que aumenta el porcentaje de utilización y se observa un patron en donde las cantidades de compras mas altan se observan mayormente en los porcentajes de utilización bajo.
   *La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altan tienden a tener balances más altos.
 
