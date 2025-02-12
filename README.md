@@ -1,4 +1,4 @@
-# Análisis de transacciones con tarjeta de crédito sobre la utilización del crédito y el comportamiento de gasto
+# Análisis de transacciones con tarjeta de crédito sobre la utilización de crédito y el comportamiento de gastos
 
 # Trasfondo
 
@@ -27,8 +27,11 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 * La mayoría de los clientes tienen balances y pagos de baja cantidad y los pagos no se ajustan proporcionalmente a los balances. Muchos de los clientes con balances altos realizan pagos de cantidades bajas.
 
   ###Comportamiento de gastos
-  *
+  *Las cantidades de compras disminuyen a medida que aumenta el porcentaje de utilización y se observa un patron en donde las cantidades de compras mas altan se observan mayormente en los porcentajes de utilización bajo.
+  *La mayoría de los clientes no utilizan cash advances o solicitan cantidades pequeñas. Se observa una tendencia en la que los clientes que solicitan cash advances de cantidades altan tienden a tener balances más altos.
 
-# Recomendaciones :
+# Visualizaciones 
+  
+# Recomendaciones:
 
 # Referencias
