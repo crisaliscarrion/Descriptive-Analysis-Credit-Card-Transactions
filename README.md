@@ -48,5 +48,9 @@ La limpieza, manipulación y visualización de los datos se realizó en RStudio.
 * Establecer sistema de alertas como recordatorio de pagos automáticos del pago mínimo para ayudar a los clientes con balances altos.
 * Realizar segmentación de clientes para ofrecer asesoramiento financiero personalizado acorde su comportamiento de gastos y pagos.
 * Considerar aumentar los límites de crédito para los clientes "Low Risk" con baja utilización para recompensar buen comportamiento y promover lealtad de cliente.
+* Implementar alertas basadas en el uso de crédito, notificando a los clientes cuando su uso exceda los parametros seguros.(Ej. Alertar cuando su balance Alcalá un porcentaje de utilización moderado o alto).
+* Ofrecer planes de pago estructurados para clientes con balances altos para ayudarlos a realizar pagos más grandes.
 
 # Referencias
+
+Bhasin, Arjun. (2013). CC GENERAL Dataset. Kaggle. Encontrado en  https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
